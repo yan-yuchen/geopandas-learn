@@ -1,4 +1,4 @@
-geopandas learn 
+based on geopandas to reduce the dependence on ArcGIS, PostGIS and other tools
 
 ### source:
 https://github.com/CNFeffery/DataScienceStudyNotes 
