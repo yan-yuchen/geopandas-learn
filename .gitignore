@@ -1,7 +1,10 @@
 **.csv 
 **.txt 
 **.pdf 
+**.zip
+**.png
 data-sample/ 
 shapefile/
 __pycache__/
 geometry/
+
