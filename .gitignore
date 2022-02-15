@@ -3,6 +3,7 @@
 **.pdf 
 **.zip
 **.png
+**.jpg
 data-sample/ 
 shapefile/
 __pycache__/
